@@ -1,3 +1,5 @@
+Note: If you are having trouble reading this file in the main page, please consider opening it directly, either in GitHub. or by downloading it, as it is better optimized there.
+
 ## Program Details ##
 
 This program will allow you to view it's current dynamic memory usage (as a graphed percentage of the total physical memory available),
