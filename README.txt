@@ -1,4 +1,4 @@
-Note: If you are having trouble reading this file in the main page, please consider opening it directly, either in GitHub. or by downloading it, as it is better optimized there.
+Note: If you are having trouble reading this file in the main page, please consider opening it directly, either in GitHub, or by downloading it, as it is better optimized there.
 
 ## Program Details ##
 
